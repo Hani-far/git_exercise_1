@@ -1,3 +1,7 @@
 Apple
+strawberry
+Avocado
+Banana
+Berry
 Melon
 Avocado
